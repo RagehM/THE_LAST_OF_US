@@ -1,0 +1,12 @@
+.pixel{
+    -fx-fill: rgba(0,0,0,1);
+    -fx-stroke:black ;
+    
+}
+.button-custom {
+    -fx-font-size: 16pt;
+    -fx-font-family: "Hooge 05_55";
+    -fx-text-fill: white;
+    -fx-background-color: black;
+ 
+}
