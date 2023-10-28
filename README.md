@@ -9,7 +9,7 @@ To play the game, simply download the files and run the Java program. Make sure 
 
 Credits
 Mohamad Rageh,Omar Riad and Marwan Salah.
-I would like to give a special thanks to thenewboston ↗ for their helpful JavaFX tutorials and resources.
+I would like to give a special thanks to thenewboston for the helpful JavaFX tutorials and resources.
 
 Conclusion
 We had a lot of fun creating this 2D version of "The Last of Us", and we hope you enjoy playing it as much as we enjoyed building it. Thank you for checking out our project!
